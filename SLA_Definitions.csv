@@ -1,0 +1,5 @@
+Priority,PriorityLabel,SLA_Hours
+P1,Critical,4
+P2,High,8
+P3,Medium,24
+P4,Low,72

@@ -1,0 +1,13 @@
+CategoryID,CategoryName,IssueType
+C001,Email Issue,Application
+C002,VPN / Remote Access,Network
+C003,Wi-Fi / LAN Connectivity,Network
+C004,Password Reset / Account Lock,Access
+C005,Software Installation,Application
+C006,Hardware Replacement,Hardware
+C007,Printer / Peripheral,Hardware
+C008,Application Crash,Application
+C009,Access Request,Access
+C010,Security Alert,Security
+C011,Performance / Slowness,Application
+C012,MS Teams / Collaboration,Application

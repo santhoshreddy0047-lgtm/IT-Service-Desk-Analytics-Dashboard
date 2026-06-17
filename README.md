@@ -73,6 +73,26 @@ Relationships are established between:
 - Measure support team productivity
 - Support data-driven decision making
 
+- ## Dashboard Preview
+
+### IT Service Desk Overview
+![Overview](Screenshot%202026-06-17%20111212.png)
+
+### SLA & Resolution
+![SLA Resolution](Screenshot%202026-06-17%20111231.png)
+
+### Agent & Team Performance
+![Agent Performance](Screenshot%202026-06-17%20111244.png)
+
+### Category & Department Analysis
+![Category Analysis](Screenshot%202026-06-17%20111257.png)
+
+### Lifecycle & Reopens
+![Lifecycle](Screenshot%202026-06-17%20111306.png)
+
+### Final Executive Dashboard
+![Final Overview](Screenshot%202026-06-17%20111317.png)
+
 ## Author
 
 Santhosh

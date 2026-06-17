@@ -76,22 +76,22 @@ Relationships are established between:
 - ## Dashboard Preview
 
 ### IT Service Desk Overview
-![Overview](Screenshot%202026-06-17%20111212.png)
+![Overview](overview.png)
 
 ### SLA & Resolution
-![SLA Resolution](Screenshot%202026-06-17%20111231.png)
+![SLA Resolution](sla-resolution.png)
 
 ### Agent & Team Performance
-![Agent Performance](Screenshot%202026-06-17%20111244.png)
+![Agent Performance](agent-performance.png)
 
 ### Category & Department Analysis
-![Category Analysis](Screenshot%202026-06-17%20111257.png)
+![Category Analysis](category-analysis.png)
 
 ### Lifecycle & Reopens
-![Lifecycle](Screenshot%202026-06-17%20111306.png)
+![Lifecycle](lifecycle-reopens.png)
 
 ### Final Executive Dashboard
-![Final Overview](Screenshot%202026-06-17%20111317.png)
+![Final Overview](final-overview.png)
 
 ## Author
 
